@@ -1,0 +1,165 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title >
+     Jesus Christ, the World's Savior
+   </title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content= "width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+</head>
+ <body>
+   <main id="main">
+    <h1 id="title">
+     Jesus Christ, the World's Savior
+   </h1>
+   <div id="img-div">
+     <img id="image" src="https://yt3.googleusercontent.com/ytc/AIdro_mcOTdwtV_Q_6Zt6eCAQgUlXtLuwyjq7Ty7QZafFzWTIA=s176-c-k-c0x00ffffff-no-rj">
+     <figcaption id="img-caption" alt="Jesus Christ picture">
+       The Fictional Image of Jesus Christ(No real picture of him which is known).
+     </figcaption>
+     </div>
+     <section id="tribute-info">
+       <h3>
+         Who is Jesus?
+       </h3>
+       <p>
+Jesus Christ was born in the years of 6–4 bce, in Bethlehem and died around 30 ce, in Jerusalem. He was a religious leader revered in Christianity,  One of the world's major religions.
+       </p>
+       <p>
+         He is regarded by most Christians as the Incarnation of God. The history of Christian reflection on the teachings and nature of Jesus is examined in the article Christology.
+       </p>
+       <p>
+       Here is the link to  <a id="tribute-link"target="_blank"href="https://www.britannica.com/biography/Jesus#:~:text=Jesus%20(born%20c.%206%E2%80%93,examined%20in%20the%20article%20Christology.">the history of this man Jesus christ.</a> 
+       </p>
+       <h3>
+         Why is this man considered as a major religion?
+       </h3>
+       <p>
+         This man is the central figure of Christianity, the world's largest religion. Most Christians believe Jesus to be the incarnation of God the Son and the awaited messiah, the Christ that is prophesied in the Old Testament. 
+         <br>
+         Virtually all modern scholars of antiquity agree that Jesus existed historically.
+       </p>
+       <h3>
+         Why is he called a world's savior?
+       </h3>
+       <p>
+        Christians believe that 
+         Jesus is the only One Who can deliver them from sin! <br>
+         Preserver: “For our citizenship is in heaven, from which we also eagerly wait for the Savior, the Lord Jesus Christ” (Philippians 3:20). As Savior, Jesus is the only One to preserve for us a home with Him in Heaven!
+       </p>
+       <p>
+         No one else in the history of the world has died because He bore the sin of others and not as the judgment for His own sin. Therefore, Jesus alone qualifies to be Savior. Fifth, Christ alone rose from the dead triumphant over sin (Acts 2:22–24; Rom. 4:25; 1 Cor.
+       </p>
+       <p>
+         Through Jesus's crucifixion and resurrection, Christians believe that God offers humans salvation and eternal life, with Jesus's death atoning for all sin, thus making humanity right with God.
+       </p>
+       <p>
+         Jesus also qualified to be our Savior because He is the only person who has ever lived on the earth who did not sin. This made Him a worthy sacrifice to pay for the sins of others.
+       </p>
+    </section>
+    <section>
+      <h3>
+        Some historical events of Jesus
+      </h3>
+      <p>
+         There is no scholarly consensus concerning most elements of Jesus's life as described in the Bible stories, and only two key events of the biblical story of Jesus's life are widely accepted as historical, based on the criterion of embarrassment, namely his baptism, and his crucifixion (commonly dated to 30 or 33 CE)
+      </p>
+      <p>
+        The following are some known agreed events: 
+      </p>
+      <ul>
+        <li>Most historians believe that John the Baptist baptized him.</li>
+        <li>Roman authorities most likely crucified him. Both Biblical and non-Biblical sources mention the event, and most scholars agree it happened.</li>
+        <li>
+          Crucifixion is a plausible cause of death.
+        </li>
+        <li>
+          Jesus attends a wedding where he turns water into wine (John 2:1-11).
+        </li>
+        <li>Jesus travels to Jerusalem for the Passover and clears the temple for the first time (John 2:13-25).</li>
+        <li>
+          Nicodemus visits Jesus at night. Jesus teaches him about the kingdom of God (John 3:1-21).
+        </li>
+        <br>
+        <li>
+           The miraculous story of Lazarus being brought back to life by Jesus is known from the Gospel According to John (11:1–45). Lazarus of Bethany was the brother of Martha and Mary and lived at Bethany, near Jerusalem.
+        </li>
+        <br>
+        <li>
+          Jesus traveled throughout the region of Galilee, teaching in the synagogues and announcing the Good News about the Kingdom. And he healed every kind of disease and illness. News about him spread as far as Syria, and people soon began bringing to him all who were sick
+        </li>
+        <li>
+          In the Gospels, Jesus walks on water in Matthew 14:22-33 and also in Mark 6:45-52 and John 6:16-21. In Mark and John, however, the reference to the apostle Peter walking on water is not included
+        </li>
+        <li>Resurrection and Ascension (The mankind who lived and died and arise from the tomb an live again but now he is in heaven).</li>
+      </ul>
+
+    </section>
+   </div>
+  </main>
+ </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+html{
+  display: block;
+  background-color: #dedfe3;
+   margin: 20px 40px;
+}
+body {
+   max-width: 600px;
+   margin: 20px auto;
+   padding: 5px;
+   font-size: 20px;
+}
+
+#title {
+  
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  text-align: center; 
+}
+#img-div {
+background-color: white;
+width: 60%;
+display: block;
+align-items: center;
+justify-content: center;
+
+
+  
+}
+
+#image{ 
+ display: block;
+ max-width: 100%;
+ max-height: auto;
+ position: relative;
+ margin: 0px auto;
+ padding-top: 5px;
+
+  
+}
+#img-caption{
+  font-size: 12px;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 5px;
+ 
+
+}
+h3{
+  text-align: center;
+  font-size: 24px; 
+  padding-top: 5px;
+}
+
+** end of undefined **
+
